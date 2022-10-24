@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Oleh - oleh</string>
+    <string name="bipang">bipang</string>
+    <string name="deskription_menu">Jipang atau bipang beras ini merupakan camilan manis berbahan dasar beras dengan campuran gula</string>
+    <string name="ingredients">Bahan :</string>
+    <string name="Resep">Beras, Gula Putih</string>
+    <string name="price">harga</string>
+    <string name="Harga_Bipang">Rp.4500</string>
+    <string name="saran_menu">Saran Menu</string>
+    <string name="bipang1">Bipang</string>
+</resources>
